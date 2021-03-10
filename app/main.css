@@ -8,6 +8,7 @@
 /*Custom Avatar Hint*/
 @import url("https://custom-avatar-hints.github.io/hints/app/database.css");
 @import url("https://custom-avatar-hints.github.io/hints/app/language-hell.css");
+@import url("https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css");
 
 /* premium shit */
 @import url('https://a-user-s-discord-themes.github.io/premium-shit/Custom%20color%20status/app.css');
@@ -32,6 +33,16 @@
 
     /*Borders*/
     --avatar-radius: 8px;
+    --rs-small-spacing: 0px;
+    --rs-large-spacing: 0px;
+    --rs-width: 3px;
+    --rs-avatar-shape: 50%;
+    --rs-online-color: #43b581;
+    --rs-idle-color: #faa61a;
+    --rs-dnd-color: #f04747;
+    --rs-streaming-color: #643da7;
+    --rs-offline-color: #636b75;
+    --rs-invisible-color: #747f8d;
 }
 
 /* Dark/Light vars */
