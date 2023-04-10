@@ -8,7 +8,6 @@
 
 @import url("https://nyri4.github.io/Couve/betterdiscord/app.css");
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS:wght@100;300;400;500;700&display=swap');
 
 /* Settings */
 :root {
@@ -32,9 +31,6 @@
   --rs-offline-color: #636b75;
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
-  
-  /* Font */
-  --font: Comic Sans MS;
 }
 
 /* Dark/Light vars */
