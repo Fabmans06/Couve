@@ -7,6 +7,7 @@
 */
 
 @import url("https://nyri4.github.io/Couve/betterdiscord/app.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 /* Settings */
 :root {
@@ -17,6 +18,19 @@
 
   /* Borders */
   --avatar-radius: 50px;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-small-width: 3px;
+  --rs-medium-width: 3px;
+  --rs-large-width: 3px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
 }
 
 /* Dark/Light vars */
